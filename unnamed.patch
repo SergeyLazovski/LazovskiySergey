@@ -1,0 +1,19 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(date 1583608337580)
++++ index.html	(date 1583608337580)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++</head>
++<body>
++<h1>Hellow</h1>
++</body>
++</html>
+\ No newline at end of file
